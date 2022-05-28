@@ -3,7 +3,7 @@ a## **E-Commerce-Back-End**
 ![License: Unlicensed](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
 ## **Purpose**
-
+A Back End E-Commerce platform for Database structuring and ease of accessibility for client and programmer. Used to keep track of and Organize Databases for an E-Commerce platform that is easy to use and Understand. 
 
 ## **Video**
 https://user-images.githubusercontent.com/96913841/164501528-31d2aa70-d4d0-4c6e-8068-96836a4ba125.mp4
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/96913841/164501528-31d2aa70-d4d0-4c6e-
 
 
 ## <h2 id="installation">**Installation**</h2>
-
+Install using MySql2, Express, Sequelize
 
 ## <h2 id="usage">**Usage**</h2>
 
