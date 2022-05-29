@@ -6,7 +6,7 @@ a## **E-Commerce-Back-End**
 A Back End E-Commerce platform for Database structuring and ease of accessibility for client and programmer. Used to keep track of and Organize Databases for an E-Commerce platform that is easy to use and Understand. 
 
 ## **Video**
-https://user-images.githubusercontent.com/96913841/164501528-31d2aa70-d4d0-4c6e-8068-96836a4ba125.mp4
+<iframe src="https://drive.google.com/file/d/17e-Tt5zwj-A8kXe4L8_VFuAwkFBcpRPA/preview" width="640" height="480"></iframe>
 
 
 ## **Table of Contents**
@@ -45,7 +45,7 @@ http://unlicense.org/
 Mike Kuney
 
 ## <h2 id="tests">**Tests**</h2>
-
+with insomnia
 
 ## <h2 id="questions">**Questions**</h2>
 If you have any questions about the repo, please contact me at: 
